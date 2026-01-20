@@ -1,14 +1,14 @@
 # Hello there; welcome 👋
 
 <p align="center">
-  <a href="https://medium.com/@yourusername">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/ebenezer-ndukwe">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/ebenezy1">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@ebnettech">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
@@ -32,8 +32,8 @@ My name is **Ebenezer Ndukwe**. I'm a creative and passionate **Software / Front
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ebenezy&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ebenezy&theme=radical" height="165"/>
 </p>
 
 ---
@@ -41,5 +41,5 @@ My name is **Ebenezer Ndukwe**. I'm a creative and passionate **Software / Front
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezy&layout=compact&theme=radical"/>
 </p>
