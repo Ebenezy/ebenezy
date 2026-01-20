@@ -33,8 +33,8 @@ My name is **Ebenezer Ndukwe**. I'm a creative and passionate **Software / Front
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ebenezy&show_icons=true&theme=radical" height="165"/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ebenezy" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ebenezy&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ebenezy" alt="e" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ebenezy" height="165"/>
 </p>
 
 ---
