@@ -14,7 +14,7 @@
 
 ---
 
-My name is **Ebenezer Ndukwe**. I'm a creative and passionate **Software/ Frontend Engineer**, having mastered the art of turning beautiful User Interface designs into state-of-the-art, clickable & usable frontend solutions. I also constantly learn and build scalable, efficient solutions. I also enjoy collaborations and contributing to open source. I enjoy working with React, Next JS, React Native, JavaScript, Flutter, Tailwind CSS, CSS3, Bootstrap, TypeScript, Node.js, MySQL, PostgreSQL, MongoDB, and Firebase.
+My name is **Ebenezer Ndukwe**. I'm a creative and passionate **Software/ Frontend Engineer**, having mastered the art of turning beautiful User Interface designs into state-of-the-art, clickable & usable frontend solutions. I also constantly learn and build scalable, efficient solutions. I also enjoy collaborations and contributing to open source. I enjoy working with React, Next JS, Vue JS, React Native, Flutter, JavaScript, Tailwind CSS, CSS3, Bootstrap, TypeScript, Node.js, MySQL, PostgreSQL, MongoDB, and Firebase.
 
 ---
 
