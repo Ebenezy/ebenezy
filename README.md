@@ -14,7 +14,7 @@
 
 ---
 
-My name is **Ebenezer Ndukwe**. I'm a creative and passionate **Software / Frontend Engineer**, having mastered the art of turning beautiful designs into state-of-the-art Frontend clickable & usable solutions, also constantly learning and building scalable, efficient solutions. I also enjoy collaborations and contributing to open source. I enjoy working with React, Next JS, React Native, JavaScript, Flutter, MySQL, PostgreSQL, MongoDB, Firebase, TailwindCSS, CSS3, Bootstrap, and TypeScript.
+My name is **Ebenezer Ndukwe**. I'm a creative and passionate **Software/ Frontend Engineer**, having mastered the art of turning beautiful User Interface designs into state-of-the-art, clickable & usable frontend solutions. I also constantly learn and build scalable, efficient solutions. I also enjoy collaborations and contributing to open source. I enjoy working with React, Next JS, React Native, JavaScript, Flutter, Tailwind CSS, CSS3, Bootstrap, TypeScript, Node.js, MySQL, PostgreSQL, MongoDB, and Firebase.
 
 ---
 
@@ -33,8 +33,7 @@ My name is **Ebenezer Ndukwe**. I'm a creative and passionate **Software / Front
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ebenezy&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ebenezy" alt="e" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ebenezy" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ebenezy" height="165" alt="Github Streaks" />
 </p>
 
 ---
@@ -44,3 +43,6 @@ My name is **Ebenezer Ndukwe**. I'm a creative and passionate **Software / Front
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebenezy&layout=compact&theme=radical"/>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ebenezy&style=flat-square)
+
